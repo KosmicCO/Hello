@@ -1,1 +1,1 @@
-![equation](https://latex.codecogs.com/png.latex?$Assume&space;$c&space;>&space;0$,&space;then&space;it&space;should&space;follow&space;that&space;any&space;ball&space;$B_d(0,&space;r)$&space;for&space;any&space;$r&space;>0$&space;should&space;not&space;be&space;fully&space;contained&space;in&space;the&space;set&space;$A$.)
+Assume $c > 0$, then it should follow that any ball $B_d(0, r)$ for any $r >0$ should not be fully contained in the set $A$.
