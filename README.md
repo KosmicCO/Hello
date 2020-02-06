@@ -1,1 +1,1 @@
-![equation](http://latex.codecogs.com/gif.latex?O_t%3D%5Ctext%20%7B%20Onset%20event%20at%20time%20bin%20%7D%20t)
+![equation](https://latex.codecogs.com/png.latex?$Assume&space;$c&space;>&space;0$,&space;then&space;it&space;should&space;follow&space;that&space;any&space;ball&space;$B_d(0,&space;r)$&space;for&space;any&space;$r&space;>0$&space;should&space;not&space;be&space;fully&space;contained&space;in&space;the&space;set&space;$A$.)
